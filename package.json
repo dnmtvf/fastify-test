@@ -7,7 +7,7 @@
     "start": "node src/app.js"
   },
   "dependencies": {
-    "fastify": "^2.12.1"
+    "fastify": "^2.15.1"
   },
   "devDependencies": {
     "@architect/sandbox": "^1.7.1"
